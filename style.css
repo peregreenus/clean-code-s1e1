@@ -16,7 +16,6 @@ body {
 .aaa .more_inf {
   font-family: "Fantasy", cursive;
 }
-
 @media (max-width: 768px) {
   .aaa { 
     text-align: center;
@@ -39,10 +38,12 @@ ul {
   margin: 0;
   padding: 0;
 }
-li, h3 {
+li, 
+h3 {
   list-style: none;
 }
-input,button{
+input,
+button {
   outline: none;
 }
 button {
